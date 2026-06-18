@@ -104,16 +104,3 @@ TOP 3 HIGHEST SPENDING CUSTOMERS
 | Lambda + Sorting | Finding top 3 spenders |
 | Set Intersection | Finding customers who bought both Electronics & Clothing |
 
----
-
-## 👨‍💻 Author
-
-**[Your Name]**
-B.Tech Final Year Student
-[Your GitHub Profile Link]
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
